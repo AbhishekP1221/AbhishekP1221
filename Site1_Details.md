@@ -1,7 +1,6 @@
 # Project Technical & Architectural Breakdown
 
 ### **Live Application:** [https://vedicastro101.com](https://vedicastro101.com)
-### **GitHub Repository:** [Link to Main Repository] <!-- e.g., (./) -->
 
 ---
 
