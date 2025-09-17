@@ -24,3 +24,21 @@ The application is deployed with a production-grade architecture, utilizing a He
 For a complete description of the technology stack, architecture, deployment infrastructure, and the solutions to key technical challenges, please see the detailed document linked below.
 
 ### **➡️ [View the Full Technical & Architectural Breakdown](./Site1_Details.md)**
+
+---
+
+# Amazon Supplement Finder & Filter Application
+
+**Live Application:** [https://discoversupps.com](https://discoversupps.com)
+
+## Project Overview
+
+This is a full-stack web application designed to help users find ideal supplements on Amazon through a highly-detailed and intuitive filtering system. It features a modern React 19 frontend and a secure Node.js/Express.js backend API that communicates with a private MongoDB database.
+
+The project is built on a secure, decoupled, three-tier architecture, ensuring that the database is never exposed to the public internet. The frontend is globally distributed via Cloudflare Pages, while the backend API and database are securely hosted on a Hetzner VPS and managed with Nginx and PM2.
+
+---
+
+For a complete description of the technology stack, architecture, deployment infrastructure, and the solutions to key technical challenges, please see the detailed document linked below.
+
+### **➡️ [View the Full Technical & Architectural Breakdown](./Site2_Details.md)**
