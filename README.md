@@ -1,13 +1,13 @@
 # Hi, I'm Abhishek 👋
 
-I'm a software engineer who enjoys building interesting applications and learning new technologies.
+I'm a software engineer who enjoys building interesting applications and learning new technologies. I have project based experience with both web development and data analytics.
 
 ## 🧠 Skills
-- Languages: Python, Java, SQL, C++, JavaScript
+- Languages: Python, Java, SQL, C++, JavaScript, HTML/CSS
 - Frameworks: React, Flask, Node.js, Express.js
-- Tools: Git, Linux, VS Code, IntelliJ,
+- Tools: Git, Linux, VS Code, IntelliJ, Jupyter Notebooks
 
-I have built and manage two websites which I'm describing below.
+Currently, I'm further learning the intricacies of data analytics and my goal is to learn more about machine learning and build related projects in the near future. I have also built, deployed and manage two full stack websites which I'm describing below in greater detail.
 
 # Vedic Astrology Website & Birth Chart Generator
 
