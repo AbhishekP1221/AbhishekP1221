@@ -7,7 +7,7 @@ I'm a software engineer who enjoys building interesting applications and learnin
 - Frameworks: React, Flask, Node.js, Express.js
 - Tools: Git, Linux, VS Code, IntelliJ,
 
-I have built and managage two websites which I'm describing below.
+I have built and manage two websites which I'm describing below.
 
 # Vedic Astrology Website & Birth Chart Generator
 
