@@ -23,4 +23,4 @@ The application is deployed with a production-grade architecture, utilizing a He
 
 For a complete description of the technology stack, architecture, deployment infrastructure, and the solutions to key technical challenges, please see the detailed document linked below.
 
-### **➡️ [View the Full Technical & Architectural Breakdown](./TECHNICAL_DETAILS.md)**
+### **➡️ [View the Full Technical & Architectural Breakdown](./Site1_Details.md)**
